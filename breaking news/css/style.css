@@ -7,7 +7,7 @@ a {
 
 body {
     height: 100vh;
-    background: #3e3232;
+    background: #C6D9D9;
     font-family: 'Poppins', sans-sherif;
     display: flex;
     align-items: center;
@@ -25,7 +25,7 @@ body {
 }
 .news {
     width: 76%;
-    background: #cc4444;
+    background: #FCFCFC;
     padding: 0 2%;
 }
 .title {
@@ -50,4 +50,7 @@ body {
 }
 .news marquee {
     font-size: 18px;
+}
+.news marquee p{
+    color: black;
 }
